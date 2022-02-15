@@ -1,6 +1,6 @@
 # Functions
  
- A function makes up the key aspects of your code, they are what will run your app
+A function makes up the key aspects of your code, they are what will run your app
  You do functions everyday in your life. Making breakfast, turning on your car, opening doors, and walking are all functions that you do automatically. What makes up functions are small steps that can be packaged and repeated easily so we don't need to keep repeating steps constantly. You can consider having to tell a robot how to open a door
  
         -Lift arm up to handle

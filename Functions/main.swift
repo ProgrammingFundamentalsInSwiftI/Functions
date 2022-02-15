@@ -1,7 +1,7 @@
 import Foundation
 
 
-// =================================== PROBLEM 1.0 : INTRODUCE YOURSELF ===================================
+//  =================================== PROBLEM 1.0 : INTRODUCE YOURSELF ===================================
 // Write a function called introduceMyself that prints out to the command line a brief introduction of yourself. Call the function and observe the printout.
 
 
